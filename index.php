@@ -11,13 +11,13 @@
     <meta name="theme-color" content="#ffffff">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Karina Sirqueira</title>
-    <meta name="description" content="I&#x27;m Karina Sirqueira, a Brazilian designer at Work&amp;Co in Brooklyn." />
+    <meta name="description" content="I'&#x27;'m Karina Sirqueira, a Brazilian designer at Work&amp;Co in Brooklyn." />
     <meta property="og:title" content="Karina Sirqueira" />
     <meta property="og:image" content="../images.prismic.io/karina-sirqueira/58ff0832-15aa-41d6-b5e7-f0901a3fb253_Open%2bGraph71fb.jpg?auto=compress,format" />
-    <meta property="og:description" content="I&#x27;m Karina Sirqueira, a Brazilian designer at Work&amp;Co in Brooklyn." />
+    <meta property="og:description" content="I'&#x27;'m Karina Sirqueira, a Brazilian designer at Work&amp;Co in Brooklyn." />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Karina Sirqueira" />
-    <meta name="twitter:description" content="I&#x27;m Karina Sirqueira, a Brazilian designer at Work&amp;Co in Brooklyn." />
+    <meta name="twitter:description" content="I'&#x27;'m Karina Sirqueira, a Brazilian designer at Work&amp;Co in Brooklyn." />
     <meta name="twitter:image:src" content="../images.prismic.io/karina-sirqueira/58ff0832-15aa-41d6-b5e7-f0901a3fb253_Open%2bGraph71fb.jpg?auto=compress,format" />
     <script type="module" crossorigin src="assets/main.2570b4e7.js"></script>
     <link rel="stylesheet" href="assets/main.e7ce3c29.css">
